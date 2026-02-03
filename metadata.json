@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Real El Tejano Mexican Restaurant",
+  "description": "A modern, vibrant website for El Tejano Mexican Restaurant in Simpsonville, SC, featuring a full digital menu, interactive map, and easy ordering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
